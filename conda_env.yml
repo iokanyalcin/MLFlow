@@ -16,4 +16,7 @@ dependencies:
   - wheel=0.43.0=py38hca03da5_0
   - xz=5.4.6=h80987f9_1
   - zlib=1.2.13=h18a0788_1
+  - pip:
+    - pandas==1.5.0
+    - mlflow==1.29.0
 prefix: /Users/okanyalcin/anaconda3/envs/exploratory
