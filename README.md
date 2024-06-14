@@ -4,4 +4,4 @@ MLflow practice. repo
 
 1.  Create conda env
 
-`conda create --name exploratory python-3.8`
+`conda create --name exploratory python=3.8`
